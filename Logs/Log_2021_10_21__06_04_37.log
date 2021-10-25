@@ -1,0 +1,42 @@
+10-21-2021 18:04:41 INFO  [main]: Landed on https://www.flipkart.com/
+10-21-2021 18:04:42 INFO  [main]: Clicked on the search Bar
+10-21-2021 18:04:42 INFO  [main]: Sent search Keys
+10-21-2021 18:04:43 INFO  [main]: Clicked on the phone
+10-21-2021 18:04:43 INFO  [main]: Price is ?25,999
+10-21-2021 18:04:43 INFO  [main]: Entered into failed listener
+10-21-2021 18:04:43 INFO  [main]: Taking Screenshot
+10-21-2021 18:04:43 DEBUG [main]: Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+10-21-2021 18:04:43 DEBUG [main]: TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+10-21-2021 18:04:43 DEBUG [main]: TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+10-21-2021 18:04:43 DEBUG [main]: TemplateLoader.findTemplateSource("Extent.ftl"): Found
+10-21-2021 18:04:43 DEBUG [main]: Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/M1074103/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+10-21-2021 18:04:48 INFO  [main]: Landed on https://www.flipkart.com/
+10-21-2021 18:04:49 DEBUG [main]: Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+10-21-2021 18:04:49 DEBUG [main]: TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+10-21-2021 18:04:49 DEBUG [main]: TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+10-21-2021 18:04:49 DEBUG [main]: TemplateLoader.findTemplateSource("Extent.ftl"): Found
+10-21-2021 18:04:49 DEBUG [main]: Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/M1074103/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+10-21-2021 18:04:49 INFO  [main]: Entered into failed listener
+10-21-2021 18:04:49 INFO  [main]: Taking Screenshot
+10-21-2021 18:04:49 DEBUG [main]: Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+10-21-2021 18:04:49 DEBUG [main]: TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+10-21-2021 18:04:49 DEBUG [main]: TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+10-21-2021 18:04:49 DEBUG [main]: TemplateLoader.findTemplateSource("Extent.ftl"): Found
+10-21-2021 18:04:49 DEBUG [main]: Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/M1074103/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+10-21-2021 18:04:54 INFO  [main]: Landed on https://www.flipkart.com/
+10-21-2021 18:04:54 INFO  [main]: User not logged in
+10-21-2021 18:04:54 INFO  [main]: Entered into failed listener
+10-21-2021 18:04:54 INFO  [main]: Taking Screenshot
+10-21-2021 18:04:55 DEBUG [main]: Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+10-21-2021 18:04:55 DEBUG [main]: TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+10-21-2021 18:04:55 DEBUG [main]: TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+10-21-2021 18:04:55 DEBUG [main]: TemplateLoader.findTemplateSource("Extent.ftl"): Found
+10-21-2021 18:04:55 DEBUG [main]: Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/M1074103/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+10-21-2021 18:05:00 INFO  [main]: Landed on https://www.flipkart.com/
+10-21-2021 18:05:01 INFO  [main]: Entered into failed listener
+10-21-2021 18:05:01 INFO  [main]: Taking Screenshot
+10-21-2021 18:05:01 DEBUG [main]: Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+10-21-2021 18:05:01 DEBUG [main]: TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+10-21-2021 18:05:01 DEBUG [main]: TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+10-21-2021 18:05:01 DEBUG [main]: TemplateLoader.findTemplateSource("Extent.ftl"): Found
+10-21-2021 18:05:01 DEBUG [main]: Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/M1074103/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

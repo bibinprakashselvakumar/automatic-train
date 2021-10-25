@@ -1,0 +1,14 @@
+10-20-2021 17:05:44 INFO  [main]: Landed on https://www.flipkart.com/
+10-20-2021 17:05:45 INFO  [main]: Clicked on the search Bar
+10-20-2021 17:05:45 INFO  [main]: Sent search Keys
+10-20-2021 17:05:45 INFO  [main]: Clicked on the phone
+10-20-2021 17:05:45 INFO  [main]: Price is ?25,999
+10-20-2021 17:05:45 DEBUG [main]: Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+10-20-2021 17:05:45 DEBUG [main]: TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+10-20-2021 17:05:45 DEBUG [main]: TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+10-20-2021 17:05:45 DEBUG [main]: TemplateLoader.findTemplateSource("Extent.ftl"): Found
+10-20-2021 17:05:45 DEBUG [main]: Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/M1074103/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+10-20-2021 17:05:50 INFO  [main]: Landed on https://www.flipkart.com/
+10-20-2021 17:05:56 INFO  [main]: Landed on https://www.flipkart.com/
+10-20-2021 17:05:56 INFO  [main]: User not logged in
+10-20-2021 17:06:02 INFO  [main]: Landed on https://www.flipkart.com/

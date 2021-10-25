@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.mindtree.utilities.listeners"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.mindtree.runner.Tester">
+        <methods>
+          <include name="openWebpage"/>
+          <include name="checkGooglePixel"/>
+          <include name="closeInstance"/>
+        </methods>
+      </class> <!-- com.mindtree.runner.Tester -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
