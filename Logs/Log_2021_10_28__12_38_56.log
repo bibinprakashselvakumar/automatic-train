@@ -1,0 +1,16 @@
+10-28-2021 12:39:04 INFO  [main]: Landed on https://www.flipkart.com/
+10-28-2021 12:39:05 INFO  [main]: Clicked on the search Bar
+10-28-2021 12:39:05 INFO  [main]: Sent search Keys
+10-28-2021 12:39:07 INFO  [main]: Clicked on the phone
+10-28-2021 12:39:07 INFO  [main]: Entered into failed listener
+10-28-2021 12:39:07 INFO  [main]: Taking Screenshot
+10-28-2021 12:39:14 INFO  [main]: Landed on https://www.flipkart.com/
+10-28-2021 12:39:15 INFO  [main]: Entered into Passed listener
+10-28-2021 12:39:15 INFO  [main]: Taking Screenshot
+10-28-2021 12:39:24 INFO  [main]: Landed on https://www.flipkart.com/
+10-28-2021 12:39:24 INFO  [main]: User not logged in
+10-28-2021 12:39:24 INFO  [main]: Entered into Passed listener
+10-28-2021 12:39:24 INFO  [main]: Taking Screenshot
+10-28-2021 12:39:44 INFO  [main]: Landed on https://www.flipkart.com/
+10-28-2021 12:39:45 INFO  [main]: Entered into Passed listener
+10-28-2021 12:39:45 INFO  [main]: Taking Screenshot
